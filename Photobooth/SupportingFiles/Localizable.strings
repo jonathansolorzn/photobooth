@@ -1,0 +1,17 @@
+/*
+  Localizable.strings
+  Photobooth
+*/
+
+"appName" = "Photobooth";
+"emptyState" = "The CATAS API is not responding, or there are no cats 🙀.";
+"retry" = "Retry";
+
+// MARK: - Splash
+"catsApp" = "Your Cats App";
+"homeAssesment" = "Take Home Assesment";
+"tapMe" = "Tap me";
+
+// MARK: - Home
+
+"all" = "All";

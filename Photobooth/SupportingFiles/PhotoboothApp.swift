@@ -2,8 +2,6 @@
 //  PhotoboothApp.swift
 //  Photobooth
 //
-//  Created by Jonathan Solorzano on 19/4/22.
-//
 
 import SwiftUI
 
@@ -11,7 +9,7 @@ import SwiftUI
 struct PhotoboothApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }
