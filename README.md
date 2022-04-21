@@ -28,6 +28,15 @@ Challenge following Service-oriented Architecture and MVVM Pattern.
 
 ## 🤔 About the project
 
+### 😱 What to expect?
+
+Predesign (self made)
+<img width="758" alt="Screen Shot 2022-04-20 at 6 48 11 PM" src="https://user-images.githubusercontent.com/15699775/164349736-9dce1db2-8153-4739-86fe-e389a5745c67.png">
+
+Final functionality
+https://user-images.githubusercontent.com/15699775/164350464-794b4783-cb6c-4cc4-8e34-5a3646152630.mp4
+
+
 ### 🗂 Folder Structure
 
 ```swift
